@@ -9,6 +9,7 @@ https://share.streamlit.io/maneesh51/spam_classification_app/main/spamclassify_a
 
 
 ### Tips:
-1. While uploading the app on streamlit.io, if the following error appears ```python
+1. While uploading the app on streamlit.io, if the following error appears 
+```python
 AttributeError: module ‘click’ has no attribute ‘get_os_args’
 ``` 
