@@ -13,3 +13,4 @@ https://share.streamlit.io/maneesh51/spam_classification_app/main/spamclassify_a
 ```python
 AttributeError: module ‘click’ has no attribute ‘get_os_args’
 ``` 
+then add 
