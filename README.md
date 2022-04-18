@@ -3,8 +3,7 @@
 ### App link: https://share.streamlit.io/maneesh51/spam_classification_app/main/spamclassify_app.py
 
 ### Procedure:
-
-
+1. This app is part of the Udemy course projects (https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/), data file spam.tsv is provided within the course.
 
 
 ### Tips:
