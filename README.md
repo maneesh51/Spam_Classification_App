@@ -2,8 +2,9 @@
 
 ### App link: https://share.streamlit.io/maneesh51/spam_classification_app/main/spamclassify_app.py
 
-### Procedure:
+### Information:
 1. This app is part of the Udemy course projects (https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/), data file spam.tsv is provided within the course.
+2. Models used in the app: RandomForest Classifier and Support Vector Machine (SVM). 
 
 
 ### Tips:
