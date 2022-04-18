@@ -1,7 +1,6 @@
 # Spam_Classification_App
 
-## App link:
-https://share.streamlit.io/maneesh51/spam_classification_app/main/spamclassify_app.py
+### App link: https://share.streamlit.io/maneesh51/spam_classification_app/main/spamclassify_app.py
 
 ### Procedure:
 
