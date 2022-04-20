@@ -14,6 +14,7 @@
 AttributeError: module ‘click’ has no attribute ‘get_os_args’
 ``` 
 then add 'click==7.1.2' in the requirement file. Some dependancy issue in streamlit backend.
+
 3. Since this app make use of loading previously saved model using pickle, always add scikit_learn version, even if not importing the library. Here, i'm using scikit_learn==1.0.2
 
 
