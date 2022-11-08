@@ -9,7 +9,7 @@ Created on 18.04.2022
 """
 Created on 17.04.2022
 
-@author: Manish Yadav
+@author: Manish Yadav https://github.com/maneesh51
 """
 
 import streamlit as st
